@@ -25,7 +25,7 @@ It is with this shared spirit that we offer the findings and recommendations in 
 
 
 # Civil Discussions (Code of Conduct)
-This is a place for civil, public discussions. Please treat it as such. We are here to help continue a discussion, not stifle it. The following are not hard and fast rules so much as guidelines to help aid you in making decisions about how to behave here. Your use of this content implies acceptance of this Code of Conduct.
+This is a place for civil, public discussions. Please treat it as such. We are here to help continue a discussion, not stifle it. The following guidelines are here to help aid you in making decisions about how to behave here. Your use of this content implies acceptance of this Code of Conduct. The guidelines here are not the full extent of expected behaviors, but rather serve as an outline and examples. 
 
 ## Help improve the discussion
 - Help everyone make this a pleasant, welcoming place for discussion. Always work to improve the conversation here. If you are typing in anger or frustration, please hold off on hitting "save" or "submit" until you have had time to think over what you want to say, you can always try again later.
