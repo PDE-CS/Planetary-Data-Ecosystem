@@ -1,6 +1,7 @@
 # Planetary-Data-Ecosystem
-Planetary Data Ecosystem Discussions
+
 1.3. IRB Core Values
+
 During the course of its activities the IRB developed a set of core values that encapsulate our
 overarching vision:
 
