@@ -20,4 +20,5 @@ inside and outside the professional space exploration community.
 
 ● Practical: Pursuit of ideal solutions may sometimes leave the Ecosystem with no solution at all
 rather than a solution that is sufficient.
+
 It is with this shared spirit that we offer the findings and recommendations in this report.
